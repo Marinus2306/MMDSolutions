@@ -1,0 +1,11 @@
+$primary: #FF0;
+
+body{
+  background: $primary;
+  user-select: none;
+  display: grid;
+
+
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap";
